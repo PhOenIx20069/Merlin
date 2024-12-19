@@ -1,0 +1,17 @@
+
+*.img
+*.qcow2
+*linux*
+*.cmd
+*.symvers
+*.order
+*.o
+*.o.d
+*.pdf
+*.tex
+/modules/merlin_open
+/modules/merlin_persist
+/modules/merlin_user
+/modules/merlin_protect
+/modules/merlin_root
+/modules/user
